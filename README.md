@@ -29,6 +29,6 @@
 </div>
 
 
-![snake gif](https://github.com/eduardocosta/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/eduardocosta/dev.costa/blob/output/github-contribution-grid-snake.svg
 
 
