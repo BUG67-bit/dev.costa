@@ -29,6 +29,6 @@
 </div>
 
 
-![snake gif](https://github.com/eduardocosta/dev.costa/blob/output/github-contribution-grid-snake.svg
 
+<img src="gif_out_path: dist/github-contribution-grid-snake.gif">
 
