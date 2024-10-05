@@ -3,9 +3,11 @@
 #
 
 <div style="display:inline_block">
-    <img heigt="189em" src="https://github-readme-stats.vercel.app/api?username=Eduardocosta&theme=chartreuse-dark&show_icons=true;">
-    <img heigt="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed&layout=compact&langs_count=16&theme=chartreuse-dark&show"<BR/> 
+    <img heigt="300" width="401" src="https://github-readme-stats.vercel.app/api?username=Eduardocosta&theme=chartreuse-dark&show_icons=true;">
+    <img heigt="300" width="316" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed&layout=compact&langs_count=16&theme=chartreuse-dark&show"<BR/> 
+<img aling="up" height="130" width="150" src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f47b.svg">
 </div>
+
 
  <div>
      <img aling="center" alt="edu-git" height="30" width="50" src="https://github.com/user-attachments/assets/1553ed3e-8e0d-4528-9ed6-49a71eb267a4">
@@ -30,5 +32,5 @@
 
 
 
-<img src="gif_out_path: dist/github-contribution-grid-snake.gif">
+
 
