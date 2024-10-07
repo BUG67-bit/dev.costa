@@ -5,7 +5,7 @@
 <div style="display:inline_block">
     <img heigt="300" width="401" src="https://github-readme-stats.vercel.app/api?username=Eduardocosta&theme=chartreuse-dark&show_icons=true;">
     <img heigt="300" width="316" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed&layout=compact&langs_count=16&theme=chartreuse-dark&show"<BR/> 
-<img aling="up" height="130" width="150" src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f47b.svg">
+
 </div>
 
 
