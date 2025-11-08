@@ -2,14 +2,14 @@
 
 #
 
-<div style="display:inline_block">
+<div class="section" style="display:inline_block">
     <img heigt="300" width="401" src="https://github-readme-stats.vercel.app/api?username=Eduardocosta&theme=chartreuse-dark&show_icons=true;">
     <img heigt="300" width="316" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed&layout=compact&langs_count=16&theme=chartreuse-dark&show"<BR/> 
 
 </div>
 
 
- <div>
+ <div class="section">
      <img aling="center" alt="edu-git" height="30" width="50" src="https://github.com/user-attachments/assets/1553ed3e-8e0d-4528-9ed6-49a71eb267a4">
      <img aling="center" alt="edu-git" height="30" width="50" src="https://github.com/user-attachments/assets/9dedebc3-c0ca-491d-aa2e-ea9f55257563">
      <img aling="center" alt="edu-git" height="30" width="50" src="https://github.com/user-attachments/assets/3d426316-65e7-4872-9710-46863ae6db5d">
@@ -22,12 +22,31 @@
 
 ##
  
- <div style="display: inline_block"><br>
-<img aling="center" alt="edu-linkedin" height="30" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img aling="center" alt="edu-git" height="30" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-<img aling="center" alt="edu-git" height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-<img aling="center" alt="edu-git" height="30" width="100" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-<img aling="center" alt="edu-git" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<div style="display: inline-block">
+  <a href="https://www.linkedin.com/in/eduardo-costa-893bab303" target="_blank">
+    <img align="center" alt="edu-linkedin" height="30" width="90"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/users/seu-id" target="_blank">
+    <img align="center" alt="edu-discord" height="30" width="100"
+      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://www.youtube.com/@seu-canal" target="_blank">
+    <img align="center" alt="edu-youtube" height="30" width="100"
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/seu-perfil" target="_blank">
+    <img align="center" alt="edu-facebook" height="30" width="100"
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/seu-perfil" target="_blank">
+    <img align="center" alt="edu-instagram" height="30" width="109"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 
