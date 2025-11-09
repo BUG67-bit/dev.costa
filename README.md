@@ -28,10 +28,6 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://discord.com/users/seu-id" target="_blank">
-    <img align="center" alt="edu-discord" height="30" width="100"
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
 
   <a href="https://www.youtube.com/@seu-canal" target="_blank">
     <img align="center" alt="edu-youtube" height="30" width="100"
